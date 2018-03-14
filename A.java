@@ -1,0 +1,4 @@
+public Class A{
+//Master
+
+}
